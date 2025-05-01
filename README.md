@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jouryABDULLAH
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: jooriabduallah1@gmail.com 
 
 <!---
