@@ -1,5 +1,5 @@
 ### Hi there, I'm Joori 👋  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=36BCF7&center=true&vCenter=true&lines=AI+%7C+ML;Computer+Vision;Always+learning+something+new;%D8%A7%D9%84%D9%84%D9%87%D9%85+%D8%B2%D8%AF%D9%86%D9%8A+%D8%B9%D9%84%D9%85%D9%8B%D8%A7)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=36BCF7&center=true&vCenter=true&lines=AI+%7C+ML;Web+Development;Computer+Vision;Always+learning+something+new;%D8%A7%D9%84%D9%84%D9%87%D9%85+%D8%B2%D8%AF%D9%86%D9%8A+%D8%B9%D9%84%D9%85%D9%8B%D8%A7)
 
 ---
 
