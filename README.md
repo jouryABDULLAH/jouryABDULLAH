@@ -19,7 +19,6 @@
 ### 🌐 Let's Connect!
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](http://linkedin.com/in/joori-abdullah) <br>
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ojiojioojio)
 
 ---
 
